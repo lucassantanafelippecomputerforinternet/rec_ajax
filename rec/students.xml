@@ -1,0 +1,17 @@
+<alunos>
+    <aluno>
+        <nome>Lucas</nome>
+        <rm>03382</rm>
+        <curso>Informatica</curso>
+    </aluno>
+        <aluno>
+        <nome>Elias</nome>
+        <rm>07382</rm>
+        <curso>Administração</curso>
+    </aluno>
+        <aluno>
+        <nome>José</nome>
+        <rm>03312</rm>
+        <curso>Serviços Jurídicos</curso>
+    </aluno>
+</alunos>
